@@ -26,6 +26,7 @@ Repositóro para guardar certificados de cursos concluídos.
 |[Avalie este Bootcamp](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Avalie%20este%20bootcamp.pdf)|DIO|
 |[Fundamentos de Computação em Nuvem na AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20em%20Nuvem%20na%20AWS.pdf)|DIO|
 |[Descubra a Nuvem AWS – LocalizaLabs](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Descubra%20a%20Nuvem%20AWS%20%E2%80%93%20LocalizaLabs.pdf)|DIO|
+|[Entendendo comunicação Client x Server](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Entendendp%20comunicacao%20client%20x%20server.pdf)|DIO|
 |[Introduction to Game Design – CALARTS](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Cursera/Cursera%20-%20introdu%C3%A7%C3%A3o%20ao%20game%20design.pdf)|Cousera|
 |[Character Design for Video Games – CALARTS](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Cursera/Coursera%20-%20Character%20Design%20for%20Video%20Games.pdf)|Cousera|
 
