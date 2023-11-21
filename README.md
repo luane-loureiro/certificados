@@ -26,10 +26,20 @@ Repositóro para guardar certificados de cursos concluídos.
 |[Avalie este Bootcamp](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Avalie%20este%20bootcamp.pdf)|DIO|
 |[Fundamentos de Computação em Nuvem na AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20em%20Nuvem%20na%20AWS.pdf)|DIO|
 |[Descubra a Nuvem AWS – LocalizaLabs](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Descubra%20a%20Nuvem%20AWS%20%E2%80%93%20LocalizaLabs.pdf)|DIO|
+|[Primeiros Passos com a Nuvem AWS - Nexa e AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Primeiros%20Passos%20com%20a%20Nuvem%20AWS%20-%20Nexa%20e%20AWS.pdf)|DIO|
 |[Entendendo comunicação Client x Server](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Entendendp%20comunicacao%20client%20x%20server.pdf)|DIO|
 |[Introdução ao HTML na Prática](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Introdu%C3%A7%C3%A3o%20ao%20HTML%20na%20pratica.pdf)|DIO|
 |[Apresentação da Formação JavaScript Developer](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Apresenta%C3%A7%C3%A3o%20da%20Forma%C3%A7%C3%A3o%20JavaScript%20Developer.pdf)|DIO|
-|[Trabalhando com Formulários em HTML]()| DIO|
+|[Primeiros Passos Com JavaScript](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/primeiros%20passos%20comjava%20script.pdf)|DIO| 
+|[Trabalhando com Formulários em HTML](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Trabalhando%20com%20Formul%C3%A1rios%20em%20HTML.pdf)| DIO|
+|[Estruturando seu HTML + Formatações](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Estruturando%20seu%20HTML%20%2B%20Formata%C3%A7%C3%B5es.pdf)|DIO|
+|[Introdução ao Exame de Certificação AWS Cloud Practitioner](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Introdu%C3%A7%C3%A3o%20ao%20Exame%20de%20Certifica%C3%A7%C3%A3o%20AWS%20Cloud%20Practitioner.pdf)|DIO|
+|[Introdução ao Conceito de Cloud](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Introdu%C3%A7%C3%A3o%20ao%20Conceito%20de%20Cloud.pdf)|DIO|
+|[Infraestrutura Global AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Infraestrutura%20Global%20AWS.pdf)|DIO|
+|[Materiais Complementares - Primeiros Passos Rumo à Certificação AWS Cloud Practitioner](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Materiais%20Complementares%20-%20Primeiros%20Passos%20Rumo%20%C3%A0%20Certifica%C3%A7%C3%A3o%20AWS%20Cloud%20Practitioner.pdf)|DIO|
+|[Primeiros Passos Rumo à Certificação AWS Cloud Practitioner](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Primeiros%20Passos%20Rumo%20%C3%A0%20Certifica%C3%A7%C3%A3o%20AWS%20Cloud%20Practitioner.pdf)|DIO|
+|[Computação em AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Computa%C3%A7%C3%A3o%20em%20AWS.pdf)|DIO|
+|[Dicas de Estudo para o Exame AWS Cloud Practitioner](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Dicas%20de%20estudo%20para%20o%20exame%20aws.pdf)|DIO|
 |[Introduction to Game Design – CALARTS](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Cursera/Cursera%20-%20introdu%C3%A7%C3%A3o%20ao%20game%20design.pdf)|Cousera|
 |[Character Design for Video Games – CALARTS](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Cursera/Coursera%20-%20Character%20Design%20for%20Video%20Games.pdf)|Cousera|
 
