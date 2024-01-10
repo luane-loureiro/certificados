@@ -14,15 +14,43 @@ Repositóro para guardar certificados de cursos concluídos.
 ### Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
 - Concluído em 19/09/2023
 - Carga horaria: 1h
+- https://www.dio.me/certificate/2FCB217E
 
 ### TypeScript para Angular
 - Concluido em 20/09/2023
 - Carga Horária: 3h
+- https://www.dio.me/certificate/0D523DA1
 
 ### Mercado e Carreira em Desenvolvimento de Jogos
 - Concluido em 21/09/2023
 - Carga Horária: 3h
+- https://www.dio.me/certificate/5C699AA0/
   
+### Introdução ao Desenvolvimento e Criação de Jogos
+- Concluido em 21/09/2023
+- carga horária: 3h
+- https://www.dio.me/certificate/25E6ABFF
+
+### Conhecendo os Serviços da AWS
+- Concluído em 22/09/2023
+- Carga Horária 1h
+- https://www.dio.me/certificate/A8BDC4E9
+
+### Materiais Complementares: Fundamentos de Front-end Componentizados
+- Concluido em 25/09/2023
+- Carga horária 1h
+- https://www.dio.me/certificate/8D7D4FCD
+
+### Fundamentos de Front-end Componentizados
+- Concluído em 25/09/2023
+- Carga Horarária 8h
+- https://www.dio.me/certificate/BA18FDB9
+
+### Introdução ao Ecossistema Angular
+- Concluído em 25/09/2023
+- Carga Horária 2h
+- https://www.dio.me/certificate/C8BC888C
+
 
 
 |Curso|Plataforma|Conclusão|Carga Horária|
@@ -31,8 +59,8 @@ Repositóro para guardar certificados de cursos concluídos.
 |[Descubra a Nuvem](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/descubra%20a%20nuvem.pdf)|DIO|13/09/2023|2h|
 |[Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/bootcamp%20DIO%3B%20educa%C3%A7%C3%A3o%20e%20empregabilidade.pdf)|DIO|19/09/2023|1h|
 |[TypeScript para Angular](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/typescript%20para%20angular.pdf)|DIO|20/09/2023|3h|
-|[Mercado e Carreira em Desenvolvimento de Jogos](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/mercado%20e%20carreira%20em%20desenvolvimento%20de%20jogos.pdf)|DIO|21/09/2023|
-|[Introdução ao Desenvolvimento e Criação de Jogos](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20e%20cria%C3%A7%C3%A3o%20de%20jogos.pdf)|DIO|
+|[Mercado e Carreira em Desenvolvimento de Jogos](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/mercado%20e%20carreira%20em%20desenvolvimento%20de%20jogos.pdf)|DIO|21/09/2023|3h|
+|[Introdução ao Desenvolvimento e Criação de Jogos](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20e%20cria%C3%A7%C3%A3o%20de%20jogos.pdf)|DIO|21/09/2023|3h|
 |[Conhecendo os Serviços da AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/conhecendo%20os%20servi%C3%A7os%20da%20AWS.pdf)|DIO|
 |[Materiais Complementares: Fundamentos de Front-end Componentizados](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Materiais%20Complementares-%20Fundamentos%20de%20Front-end%20Componentizados.pdf)|DIO|
 |[Fundamentos de Front-end Componentizados](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Fundamentos%20de%20Front-end%20Componentizados.pdf)|DIO|
