@@ -1,10 +1,20 @@
 # 🎓 certificados
 Repositóro para guardar certificados de cursos concluídos.
 
-|Curso|Plataforma|
-|----|----|
-|[Trabalhando com Web Components no Front-end](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Trabalhando%20com%20Web%20Components%20no%20Front-end.pdf)|DIO|
-|[Descubra a Nuvem](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/descubra%20a%20nuvem.pdf)|DIO|
+### Trabalhando com Web Components no Front-end
+- Concluído em 05/09/2023
+- Carga horária: 3h
+- https://www.dio.me/certificate/1BFE73EA
+
+### Descubra a Nuvem
+- Concluído em 13/09/2023
+- Carga horária: 2h
+- https://www.dio.me/certificate/D72C0759
+
+|Curso|Plataforma|Conclusão|Carga Horária|
+|----|----|----|----|
+|[Trabalhando com Web Components no Front-end](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Trabalhando%20com%20Web%20Components%20no%20Front-end.pdf)|DIO|05/09/2023|3h|
+|[Descubra a Nuvem](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/descubra%20a%20nuvem.pdf)|DIO|13/09/2023|2h|
 |[Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/bootcamp%20DIO%3B%20educa%C3%A7%C3%A3o%20e%20empregabilidade.pdf)|DIO|
 |[TypeScript para Angular](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/typescript%20para%20angular.pdf)|DIO|
 |[Mercado e Carreira em Desenvolvimento de Jogos](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/mercado%20e%20carreira%20em%20desenvolvimento%20de%20jogos.pdf)|DIO|
