@@ -59,12 +59,16 @@ Repositóro para guardar certificados de cursos concluídos.
 |[Criando sua Primeira Landing Page com HTML e CSS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Criando%20sua%20Primeira%20Landing%20Page%20com%20HTML%20e%20CSS.pdf)|DIO|18/01/2024|2h|
 |[Introdução ao Console de Gerenciamento da AWS]()|AWS Educate|2024|1h|
 |[Introdução ao Cloud 101]()|AWS Educate|2024|3h|
-|[]()||||
-
-
-
-
-
+|[AWS Foundations: Getting Started with the AWS Cloud Essentials (Portuguese)](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Skill%20Builder%20AWS/AWS%20Foundations%20Getting%20Started%20with%20the%20AWS%20Cloud%20Essentials%20(Portuguese).pdf)|Skill Builder AWS|23/10/2023||
+|[AWS Cloud Practitioner Essentials](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Skill%20Builder%20AWS/AWS%20Cloud%20Practitioner%20Essentials.pdf)|Skill Builder AWS|30/11/2023||
+|[Job Roles in the Cloud](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Skill%20Builder%20AWS/Job%20Roles%20in%20the%20Cloud.pdf)|Skill Builder AWS|30/11/2023|3h|
+|[Elementos essenciais do AWS Cloud Practitioner (Português)](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Skill%20Builder%20AWS/AWS%20Foundations%20Getting%20Started%20with%20the%20AWS%20Cloud%20Essentials%20(Portuguese).pdf)|Skill Builder AWS|30/11/2023|22h|
+|[AWS Cloud Quest: Cloud Practitioner]()|Skill Builder AWS|13/12/2023|20min|
+|[Job Roles in the Cloud (Portuguese)](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Skill%20Builder%20AWS/Job%20Roles%20in%20the%20Cloud%20(Portuguese).pdf)|Skill Builder AWS|13/12/2023||
+|[Exam Prep: AWS Certified Cloud Practitioner (Portuguese)](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Skill%20Builder%20AWS/Exam%20Prep%20AWS%20Certified%20Cloud%20Practitioner%20(Portuguese).pdf)|Skill Builder AWS|14/12/2023|2h|
+|[Exam Prep Official Question Set: AWS Certified Cloud Practitioner (CLF-C02 - English)]()|Skill Builder AWS|29/12/2023|1h|
+|[Getting Started with Cloud Acquisition (Portuguese)](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Skill%20Builder%20AWS/Getting%20Started%20with%20Cloud%20Acquisition%20(Portuguese).pdf)|Skill Builder AWS|13/12/2023|3h|
+|[Exam Prep Official Practice Question Set: AWS Certified Data Engineer - Associate (DEA-C01 - English)]()|Skill Builder AWS|||
 |[Introduction to Game Design – CALARTS](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Cursera/Cursera%20-%20introdu%C3%A7%C3%A3o%20ao%20game%20design.pdf)|Cousera|
 |[Character Design for Video Games – CALARTS](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Cursera/Coursera%20-%20Character%20Design%20for%20Video%20Games.pdf)|Cousera|
 
