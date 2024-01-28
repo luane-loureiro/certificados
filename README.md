@@ -9,7 +9,7 @@ Repositóro para guardar certificados de cursos concluídos.
 |[TypeScript para Angular](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/typescript%20para%20angular.pdf)|DIO|20/09/2023|3h|
 |[Mercado e Carreira em Desenvolvimento de Jogos](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/mercado%20e%20carreira%20em%20desenvolvimento%20de%20jogos.pdf)|DIO|21/09/2023|3h|
 |[Introdução ao Desenvolvimento e Criação de Jogos](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20e%20cria%C3%A7%C3%A3o%20de%20jogos.pdf)|DIO|21/09/2023|3h|
-|[Conhecendo os Serviços da AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/conhecendo%20os%20servi%C3%A7os%20da%20AWS.pdf)|DIO|22/09/2023/1h|
+|[Conhecendo os Serviços da AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/conhecendo%20os%20servi%C3%A7os%20da%20AWS.pdf)|DIO|22/09/2023|1h|
 |[Materiais Complementares: Fundamentos de Front-end Componentizados](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Materiais%20Complementares-%20Fundamentos%20de%20Front-end%20Componentizados.pdf)|DIO|22/09/2023|1h|
 |[Fundamentos de Front-end Componentizados](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Fundamentos%20de%20Front-end%20Componentizados.pdf)|DIO|25/09/2023|8h|
 |[Introdução ao Ecossistema Angular](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Introdu%C3%A7%C3%A3o%20ao%20Ecossistema%20Angular.pdf)|DIO|25/09/2023|2h|
