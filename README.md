@@ -40,12 +40,30 @@ Repositóro para guardar certificados de cursos concluídos.
 |[Primeiros Passos Rumo à Certificação AWS Cloud Practitioner](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Primeiros%20Passos%20Rumo%20%C3%A0%20Certifica%C3%A7%C3%A3o%20AWS%20Cloud%20Practitioner.pdf)|DIO|20/11/2023|5h|
 |[Computação em AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Computa%C3%A7%C3%A3o%20em%20AWS.pdf)|DIO|20/11/2023|1h|
 |[Dicas de Estudo para o Exame AWS Cloud Practitioner](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Dicas%20de%20estudo%20para%20o%20exame%20aws.pdf)|DIO|21/11/2023|1h|
-|[Redes em AWS]()|DIO|21/11/2023|
-|[Armazenamento em Banco de Dados AWS]()|DIO|21/11/2023|
-|[Segurança na NUvem com AWSWS]()|DIO|23/11/2023|
-|[Monitoramento e Análise na AWS]()|DIO|23/11/2023|
-|[Simulados Preparatórios para Certificação AWS Cloud Practitioner]()|DIO|27/11/2023|
-|[Aula inalgural Descubra A nuvem AWS - Nexa]()|DIO|28/11/2023|
+|[Redes em AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/redes%20aws.pdf)|DIO|21/11/2023|1h|
+|[Armazenamento em Banco de Dados AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/armazenamento%20em%20banco%20de%20dados.pdf)|DIO|21/11/2023|2h|
+|[Segurança na NUvem com AWSWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Seguran%C3%A7a%20na%20Nuvem%20com%20AWS.pdf)|DIO|23/11/2023|2h|
+|[Monitoramento e Análise na AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Monitoramento%20e%20An%C3%A1lise%20na%20AWS.pdf)|DIO|23/11/2023|1h|
+|[Simulados Preparatórios para Certificação AWS Cloud Practitioner](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Simulados%20Preparat%C3%B3rios%20para%20a%20Certifica%C3%A7%C3%A3o%20AWS%20Cloud%20Practitioner.pdf)|DIO|27/11/2023|8h|
+|[Aula inalgural Descubra A nuvem AWS - Nexa](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/descubra%20a%20nuvem.pdf)|DIO|28/11/2023|2h|
+|[Criando sua Conta na AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Criando%20sua%20conta%20na%20AWS%202.pdf)|DIO|28/11/2023|12h|1h|
+|[Fundamentos de Computação em Nuvem na AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Fundamentos%20de%20Computa%C3%A7%C3%A3o%20em%20Nuvem%20na%20AWS%202.pdf)|DIO|28/11/2023|12h|
+|[Descubra a Nuvem AWS - Nexa Resources](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Descubra%20a%20Nuvem%20AWS%20-%20Nexa%20Resources.pdf)|DIO|28/11/2023|6h|
+|[Materiais Complementares - Serviços e Ferramentas AWS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Materiais%20Complementares%20-%20Servi%C3%A7os%20e%20Ferramentas%20AWS.pdf)|DIO|14/12/2023|1h|
+|[Fundamentos do CSS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Fundamentos%20do%20CSS.pdf)|DIO|03/01/2024|3h|
+|[Aula Inaugural - Desenvolvimento FrontEnd com Angular](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Aula%20Inaugural%20-%20Desenvolvimento%20FrontEnd%20com%20Angular.pdf)|DIO|15/01/2024|2h|
+|[Princípios de Desenvolvimento Colaborativo](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Princ%C3%ADpios%20de%20Desenvolvimento%20Colaborativo.pdf)|DIO|15/01/2024|6h|
+|[Introdução a Criação de Websites com HTML5 e CSS3](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Introdu%C3%A7%C3%A3o%20a%20cria%C3%A7%C3%A3o%20de%20websites%20com%20HTML5%20e%20CSS3.pdf)|DIO|15/01/2024|6h|
+|[Estilizações Básicas com CSS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Estiliza%C3%A7%C3%B5es%20B%C3%A1sicas%20com%20CSS.pdf)|DIO|15/01/2024|6h|
+|[Criando suas Primeiras Páginas com HTML e CSS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Criando%20suas%20Primeiras%20P%C3%A1ginas%20com%20HTML%20e%20CSS.pdf)|DIO|18/01/2024|19h|
+|[Criando sua Primeira Landing Page com HTML e CSS](https://github.com/luane-loureiro/certificados/blob/main/certificados-%20DIO/Criando%20sua%20Primeira%20Landing%20Page%20com%20HTML%20e%20CSS.pdf)|DIO|18/01/2024|2h|
+|[Introdução ao Console de Gerenciamento da AWS]()|AWS Educate|2024|1h|
+|[Introdução ao Cloud 101]()|AWS Educate|2024|3h|
+|[]()||||
+
+
+
+
 
 |[Introduction to Game Design – CALARTS](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Cursera/Cursera%20-%20introdu%C3%A7%C3%A3o%20ao%20game%20design.pdf)|Cousera|
 |[Character Design for Video Games – CALARTS](https://github.com/luane-loureiro/certificados/blob/main/Certificados%20-%20Cursera/Coursera%20-%20Character%20Design%20for%20Video%20Games.pdf)|Cousera|
